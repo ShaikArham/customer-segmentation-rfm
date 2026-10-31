@@ -1,0 +1,8 @@
+segment,customers,net_cents,action
+Champions,120,28247919,Test recognition and referral offers against a holdout group.
+Loyal customers,57,10211849,Test relevant cross-sell offers; monitor repeat purchase rate.
+New customers,51,2344359,Test onboarding and a second-purchase reminder.
+Potential loyalists,94,8837244,Test personalised recommendations with a control group.
+At risk,11,2051300,Test a win-back campaign; cap contact frequency.
+Hibernating,201,6789563,Check consent and test low-frequency reactivation.
+Needs attention,35,2114505,Investigate purchase barriers before proposing incentives.

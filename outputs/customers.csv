@@ -1,0 +1,570 @@
+customer_id,country,recency_days,frequency,monetary_cents,r_score,f_score,m_score,segment
+C0001,Ireland,251,1,19224,1,1,1,Hibernating
+C0002,Ireland,56,8,208573,3,4,5,Loyal customers
+C0003,Ireland,22,5,90339,4,3,3,Potential loyalists
+C0004,United Kingdom,38,1,26067,4,1,1,New customers
+C0005,United Kingdom,36,7,168494,4,4,4,Champions
+C0006,Ireland,17,14,363280,5,5,5,Champions
+C0007,United Kingdom,64,1,23356,3,1,1,Needs attention
+C0009,Ireland,89,16,383404,2,5,5,At risk
+C0010,Netherlands,340,1,21752,1,1,1,Hibernating
+C0011,Netherlands,22,14,358636,4,5,5,Champions
+C0012,Germany,318,2,36989,1,2,2,Hibernating
+C0013,France,79,8,112958,3,4,4,Loyal customers
+C0014,Ireland,23,1,22970,4,1,1,New customers
+C0015,United Kingdom,130,3,40176,2,2,2,Hibernating
+C0016,France,186,2,8757,1,2,1,Hibernating
+C0017,Germany,189,1,40296,1,1,2,Hibernating
+C0018,Germany,90,3,49356,2,2,2,Hibernating
+C0019,United Kingdom,159,1,27964,2,1,2,Hibernating
+C0021,United Kingdom,20,6,139611,4,3,4,Potential loyalists
+C0022,United Kingdom,9,17,425279,5,5,5,Champions
+C0023,Ireland,7,13,227254,5,5,5,Champions
+C0025,United Kingdom,9,16,320253,5,5,5,Champions
+C0026,United Kingdom,81,1,27835,3,1,2,Needs attention
+C0027,France,11,6,175996,5,3,5,Potential loyalists
+C0028,Netherlands,8,8,143087,5,4,4,Champions
+C0029,Ireland,322,1,38086,1,1,2,Hibernating
+C0030,Ireland,45,7,99815,3,4,3,Loyal customers
+C0031,Germany,14,6,132158,5,3,4,Potential loyalists
+C0033,Ireland,355,1,29172,1,1,2,Hibernating
+C0034,Germany,22,7,155309,4,4,4,Champions
+C0035,France,8,13,196547,5,5,5,Champions
+C0036,Netherlands,26,7,173963,4,4,5,Champions
+C0037,United Kingdom,46,1,18568,3,1,1,Needs attention
+C0038,Ireland,10,14,319457,5,5,5,Champions
+C0039,Germany,14,4,45113,5,3,2,Potential loyalists
+C0040,Germany,94,3,84040,2,2,3,Hibernating
+C0041,France,12,12,241727,5,5,5,Champions
+C0042,France,35,3,62920,4,2,3,New customers
+C0044,Ireland,301,1,23056,1,1,1,Hibernating
+C0045,United Kingdom,65,1,37520,3,1,2,Needs attention
+C0046,United Kingdom,27,3,31470,4,2,2,New customers
+C0048,Germany,307,1,21591,1,1,1,Hibernating
+C0049,France,51,3,88287,3,2,3,Potential loyalists
+C0050,Ireland,147,1,32590,2,1,2,Hibernating
+C0051,France,1,6,158176,5,3,4,Potential loyalists
+C0052,France,147,3,57616,2,2,3,Hibernating
+C0053,Ireland,25,3,82246,4,2,3,New customers
+C0054,France,20,14,280384,4,5,5,Champions
+C0055,United Kingdom,79,8,106726,3,4,4,Loyal customers
+C0056,Germany,356,1,3972,1,1,1,Hibernating
+C0057,Ireland,35,16,271718,4,5,5,Champions
+C0058,Ireland,35,3,48994,4,2,2,New customers
+C0059,Ireland,190,2,55003,1,2,3,Hibernating
+C0060,Ireland,98,3,60054,2,2,3,Hibernating
+C0061,Germany,22,7,150159,4,4,4,Champions
+C0063,Germany,117,1,15237,2,1,1,Hibernating
+C0064,United Kingdom,106,1,20585,2,1,1,Hibernating
+C0065,Netherlands,298,1,17453,1,1,1,Hibernating
+C0067,Germany,37,8,186126,4,4,5,Champions
+C0068,Netherlands,54,14,236420,3,5,5,Loyal customers
+C0069,Ireland,40,3,82693,3,2,3,Potential loyalists
+C0070,Germany,192,3,26475,1,2,2,Hibernating
+C0071,United Kingdom,102,4,75335,2,3,3,Needs attention
+C0072,France,11,3,55046,5,2,3,New customers
+C0073,United Kingdom,12,3,71950,5,2,3,New customers
+C0074,France,143,1,18229,2,1,1,Hibernating
+C0075,Ireland,103,1,27821,2,1,2,Hibernating
+C0076,United Kingdom,10,14,283630,5,5,5,Champions
+C0077,United Kingdom,52,8,191419,3,4,5,Loyal customers
+C0078,United Kingdom,68,8,126410,3,4,4,Loyal customers
+C0079,Netherlands,32,7,175548,4,4,5,Champions
+C0080,France,205,1,40958,1,1,2,Hibernating
+C0081,Germany,70,8,169129,3,4,4,Loyal customers
+C0082,Ireland,46,15,363491,3,5,5,Loyal customers
+C0083,Netherlands,123,3,25874,2,2,1,Hibernating
+C0084,Netherlands,26,7,158387,4,4,4,Champions
+C0085,France,93,2,26443,2,2,1,Hibernating
+C0086,United Kingdom,79,2,53406,3,2,3,Potential loyalists
+C0087,Germany,291,1,27056,1,1,2,Hibernating
+C0088,France,9,7,135239,5,4,4,Champions
+C0089,Germany,32,2,17750,4,2,1,New customers
+C0090,Ireland,24,15,304192,4,5,5,Champions
+C0091,Germany,90,2,52867,2,2,3,Hibernating
+C0092,United Kingdom,17,8,232387,5,4,5,Champions
+C0093,France,136,5,124649,2,3,4,Needs attention
+C0094,Netherlands,274,1,23991,1,1,1,Hibernating
+C0095,France,239,2,41850,1,2,2,Hibernating
+C0096,United Kingdom,27,3,50944,4,2,3,New customers
+C0097,Ireland,141,1,4099,2,1,1,Hibernating
+C0098,United Kingdom,108,3,47690,2,2,2,Hibernating
+C0099,Netherlands,3,3,54390,5,2,3,New customers
+C0100,France,22,15,327919,4,5,5,Champions
+C0101,Netherlands,30,8,188224,4,4,5,Champions
+C0102,Ireland,3,12,239500,5,5,5,Champions
+C0103,Germany,166,6,142389,2,3,4,Needs attention
+C0104,United Kingdom,41,7,170900,3,4,5,Loyal customers
+C0105,United Kingdom,227,2,38528,1,2,2,Hibernating
+C0106,Ireland,81,1,22962,3,1,1,Needs attention
+C0107,Ireland,318,1,18296,1,1,1,Hibernating
+C0108,Germany,48,15,335475,3,5,5,Loyal customers
+C0109,France,13,13,252481,5,5,5,Champions
+C0110,Germany,190,2,14344,1,2,1,Hibernating
+C0111,United Kingdom,38,16,338520,4,5,5,Champions
+C0112,United Kingdom,107,6,120196,2,3,4,Needs attention
+C0113,France,64,7,119793,3,4,4,Loyal customers
+C0114,Netherlands,19,6,109396,4,3,4,Potential loyalists
+C0115,United Kingdom,85,3,73818,2,2,3,Hibernating
+C0116,Netherlands,10,15,262774,5,5,5,Champions
+C0117,United Kingdom,39,12,210217,4,5,5,Champions
+C0118,United Kingdom,8,3,35579,5,2,2,New customers
+C0119,United Kingdom,306,1,6850,1,1,1,Hibernating
+C0120,Netherlands,359,1,12711,1,1,1,Hibernating
+C0121,Ireland,101,1,17941,2,1,1,Hibernating
+C0123,Ireland,1,7,59403,5,4,3,Loyal customers
+C0124,Ireland,21,7,121330,4,4,4,Champions
+C0125,Germany,1,7,100513,5,4,3,Loyal customers
+C0126,Germany,62,2,32117,3,2,2,Potential loyalists
+C0127,Germany,65,14,184590,3,5,5,Loyal customers
+C0128,France,51,5,102138,3,3,4,Potential loyalists
+C0130,Netherlands,71,6,154246,3,3,4,Potential loyalists
+C0131,France,77,3,49305,3,2,2,Potential loyalists
+C0132,United Kingdom,5,7,100367,5,4,3,Loyal customers
+C0133,France,13,2,49253,5,2,2,New customers
+C0134,Netherlands,38,3,91781,4,2,3,New customers
+C0135,Ireland,120,4,108109,2,3,4,Needs attention
+C0136,Germany,61,3,41170,3,2,2,Potential loyalists
+C0137,France,27,7,176896,4,4,5,Champions
+C0138,United Kingdom,123,1,20324,2,1,1,Hibernating
+C0139,Germany,23,8,177092,4,4,5,Champions
+C0140,Netherlands,16,8,122640,5,4,4,Champions
+C0141,Netherlands,131,2,43174,2,2,2,Hibernating
+C0142,Netherlands,30,6,137482,4,3,4,Potential loyalists
+C0143,Germany,212,2,46378,1,2,2,Hibernating
+C0144,Netherlands,2,6,108820,5,3,4,Potential loyalists
+C0145,Ireland,65,7,92494,3,4,3,Loyal customers
+C0146,Netherlands,15,6,104740,5,3,4,Potential loyalists
+C0147,Germany,58,2,37729,3,2,2,Potential loyalists
+C0148,France,3,16,351935,5,5,5,Champions
+C0149,France,51,3,45497,3,2,2,Potential loyalists
+C0150,France,174,1,36181,2,1,2,Hibernating
+C0151,Germany,10,7,155576,5,4,4,Champions
+C0152,United Kingdom,12,6,85714,5,3,3,Potential loyalists
+C0153,Ireland,49,1,6057,3,1,1,Needs attention
+C0154,Ireland,13,6,107219,5,3,4,Potential loyalists
+C0155,Germany,19,2,24724,4,2,1,New customers
+C0156,United Kingdom,33,8,198733,4,4,5,Champions
+C0157,United Kingdom,5,6,137440,5,3,4,Potential loyalists
+C0159,United Kingdom,106,3,84804,2,2,3,Hibernating
+C0160,France,130,3,85853,2,2,3,Hibernating
+C0161,Ireland,80,1,28223,3,1,2,Needs attention
+C0162,Ireland,29,7,194933,4,4,5,Champions
+C0163,Ireland,294,1,11958,1,1,1,Hibernating
+C0164,France,269,1,41232,1,1,2,Hibernating
+C0166,France,135,1,39788,2,1,2,Hibernating
+C0167,Netherlands,1,11,246392,5,5,5,Champions
+C0168,France,229,1,4909,1,1,1,Hibernating
+C0169,United Kingdom,9,13,237061,5,5,5,Champions
+C0170,Germany,107,3,80890,2,2,3,Hibernating
+C0171,Netherlands,122,3,61465,2,2,3,Hibernating
+C0172,Ireland,242,1,23875,1,1,1,Hibernating
+C0173,Netherlands,16,15,276484,5,5,5,Champions
+C0174,Germany,41,6,132565,3,3,4,Potential loyalists
+C0175,Germany,283,1,34790,1,1,2,Hibernating
+C0176,Netherlands,84,7,170743,2,4,5,At risk
+C0177,United Kingdom,83,7,169479,3,4,4,Loyal customers
+C0178,Netherlands,26,6,166027,4,3,4,Potential loyalists
+C0179,United Kingdom,76,2,13553,3,2,1,Potential loyalists
+C0180,Germany,33,2,29117,4,2,2,New customers
+C0181,Netherlands,31,7,115311,4,4,4,Champions
+C0182,United Kingdom,57,1,11512,3,1,1,Needs attention
+C0183,Ireland,72,8,205669,3,4,5,Loyal customers
+C0184,France,14,17,370096,5,5,5,Champions
+C0185,Germany,91,3,44879,2,2,2,Hibernating
+C0186,France,51,6,90229,3,3,3,Potential loyalists
+C0187,Ireland,30,7,178518,4,4,5,Champions
+C0188,Netherlands,243,1,3563,1,1,1,Hibernating
+C0189,United Kingdom,185,1,19283,1,1,1,Hibernating
+C0190,France,5,7,111945,5,4,4,Champions
+C0191,Netherlands,77,3,87018,3,2,3,Potential loyalists
+C0192,Ireland,185,1,21891,1,1,1,Hibernating
+C0193,Ireland,82,3,94841,3,2,3,Potential loyalists
+C0194,United Kingdom,242,3,70776,1,2,3,Hibernating
+C0195,Ireland,8,16,395562,5,5,5,Champions
+C0196,United Kingdom,78,3,49013,3,2,2,Potential loyalists
+C0197,Ireland,181,2,35036,1,2,2,Hibernating
+C0198,Netherlands,35,15,236774,4,5,5,Champions
+C0199,Ireland,45,7,218668,3,4,5,Loyal customers
+C0200,United Kingdom,163,6,163114,2,3,4,Needs attention
+C0201,France,33,7,105938,4,4,4,Champions
+C0202,Ireland,150,1,15433,2,1,1,Hibernating
+C0203,France,17,16,290505,5,5,5,Champions
+C0204,Germany,4,7,168183,5,4,4,Champions
+C0205,Netherlands,135,1,36008,2,1,2,Hibernating
+C0206,Germany,39,3,86162,4,2,3,New customers
+C0207,Netherlands,16,4,97162,5,3,3,Potential loyalists
+C0208,Netherlands,30,7,102487,4,4,4,Champions
+C0209,Netherlands,20,6,160855,4,3,4,Potential loyalists
+C0210,Netherlands,235,1,19335,1,1,1,Hibernating
+C0211,United Kingdom,61,13,311548,3,5,5,Loyal customers
+C0212,France,15,16,327528,5,5,5,Champions
+C0213,Germany,261,1,36458,1,1,2,Hibernating
+C0214,Germany,26,2,37352,4,2,2,New customers
+C0215,Netherlands,216,1,8270,1,1,1,Hibernating
+C0216,France,2,1,19612,5,1,1,New customers
+C0217,Germany,78,3,66867,3,2,3,Potential loyalists
+C0218,Germany,45,2,58312,3,2,3,Potential loyalists
+C0219,France,13,15,325274,5,5,5,Champions
+C0220,Ireland,108,7,143242,2,4,4,At risk
+C0221,Ireland,91,7,79574,2,4,3,At risk
+C0222,United Kingdom,109,1,30802,2,1,2,Hibernating
+C0223,France,76,5,54109,3,3,3,Potential loyalists
+C0224,France,87,2,46854,2,2,2,Hibernating
+C0225,Netherlands,13,16,288427,5,5,5,Champions
+C0226,Germany,51,2,46331,3,2,2,Potential loyalists
+C0227,United Kingdom,18,11,202420,4,5,5,Champions
+C0228,Netherlands,4,7,112080,5,4,4,Champions
+C0229,France,19,6,136350,4,3,4,Potential loyalists
+C0230,Germany,313,1,28407,1,1,2,Hibernating
+C0231,Germany,5,3,99176,5,2,3,New customers
+C0232,United Kingdom,169,1,4506,2,1,1,Hibernating
+C0233,France,43,2,53015,3,2,3,Potential loyalists
+C0234,Ireland,7,17,428334,5,5,5,Champions
+C0235,France,59,1,27794,3,1,2,Needs attention
+C0236,Netherlands,52,7,155892,3,4,4,Loyal customers
+C0237,France,5,7,145941,5,4,4,Champions
+C0239,France,9,8,159428,5,4,4,Champions
+C0241,Netherlands,52,15,421389,3,5,5,Loyal customers
+C0242,Netherlands,18,12,267411,4,5,5,Champions
+C0243,Ireland,39,7,116351,4,4,4,Champions
+C0244,Ireland,11,7,116756,5,4,4,Champions
+C0245,Ireland,356,1,17623,1,1,1,Hibernating
+C0246,United Kingdom,16,5,130986,5,3,4,Potential loyalists
+C0247,Netherlands,27,14,317337,4,5,5,Champions
+C0248,United Kingdom,62,3,71930,3,2,3,Potential loyalists
+C0249,Ireland,279,1,10456,1,1,1,Hibernating
+C0250,Netherlands,345,1,12876,1,1,1,Hibernating
+C0251,Netherlands,116,3,53321,2,2,3,Hibernating
+C0252,France,38,6,120572,4,3,4,Potential loyalists
+C0253,United Kingdom,35,3,50211,4,2,3,New customers
+C0254,United Kingdom,102,3,23913,2,2,1,Hibernating
+C0255,United Kingdom,142,8,189111,2,4,5,At risk
+C0256,Netherlands,127,1,10145,2,1,1,Hibernating
+C0257,United Kingdom,56,8,168654,3,4,4,Loyal customers
+C0258,France,5,5,131239,5,3,4,Potential loyalists
+C0260,Ireland,12,13,185113,5,5,5,Champions
+C0261,France,30,15,353153,4,5,5,Champions
+C0262,Ireland,13,6,113945,5,3,4,Potential loyalists
+C0263,France,19,12,258028,4,5,5,Champions
+C0264,Germany,2,3,62926,5,2,3,New customers
+C0265,Germany,59,6,147115,3,3,4,Potential loyalists
+C0266,Ireland,202,3,54013,1,2,3,Hibernating
+C0267,Germany,59,3,42414,3,2,2,Potential loyalists
+C0268,Netherlands,92,2,35576,2,2,2,Hibernating
+C0269,Germany,1,7,131921,5,4,4,Champions
+C0270,Germany,305,1,21167,1,1,1,Hibernating
+C0271,United Kingdom,12,8,122470,5,4,4,Champions
+C0273,Germany,254,2,40157,1,2,2,Hibernating
+C0274,Germany,315,1,36401,1,1,2,Hibernating
+C0275,Netherlands,8,11,250411,5,5,5,Champions
+C0276,France,104,3,84636,2,2,3,Hibernating
+C0277,France,111,1,17629,2,1,1,Hibernating
+C0278,United Kingdom,110,1,4663,2,1,1,Hibernating
+C0279,United Kingdom,27,3,63596,4,2,3,New customers
+C0280,France,190,3,44499,1,2,2,Hibernating
+C0281,Germany,13,14,360121,5,5,5,Champions
+C0282,Germany,354,1,23987,1,1,1,Hibernating
+C0283,France,24,7,118898,4,4,4,Champions
+C0284,Netherlands,331,1,23275,1,1,1,Hibernating
+C0285,Netherlands,212,3,67267,1,2,3,Hibernating
+C0286,Germany,39,6,118962,4,3,4,Potential loyalists
+C0287,Ireland,28,6,124705,4,3,4,Potential loyalists
+C0288,Ireland,16,14,283886,5,5,5,Champions
+C0289,Germany,8,14,203367,5,5,5,Champions
+C0290,Germany,34,8,173203,4,4,5,Champions
+C0291,France,229,1,14513,1,1,1,Hibernating
+C0292,France,58,1,29466,3,1,2,Needs attention
+C0293,Germany,176,1,30755,1,1,2,Hibernating
+C0294,France,200,1,31928,1,1,2,Hibernating
+C0295,France,22,5,104492,4,3,4,Potential loyalists
+C0296,United Kingdom,293,3,81119,1,2,3,Hibernating
+C0297,Germany,29,7,143530,4,4,4,Champions
+C0298,Netherlands,220,2,40840,1,2,2,Hibernating
+C0299,Netherlands,67,9,168000,3,5,4,Loyal customers
+C0300,Ireland,96,7,186024,2,4,5,At risk
+C0301,Ireland,21,17,381441,4,5,5,Champions
+C0303,United Kingdom,123,2,68067,2,2,3,Hibernating
+C0305,France,241,2,61513,1,2,3,Hibernating
+C0306,France,8,5,91230,5,3,3,Potential loyalists
+C0307,United Kingdom,29,3,65834,4,2,3,New customers
+C0308,Germany,21,6,132546,4,3,4,Potential loyalists
+C0309,Netherlands,145,1,5372,2,1,1,Hibernating
+C0310,United Kingdom,233,1,15886,1,1,1,Hibernating
+C0311,Germany,23,7,142071,4,4,4,Champions
+C0312,Germany,219,3,70917,1,2,3,Hibernating
+C0313,Ireland,43,3,46993,3,2,2,Potential loyalists
+C0314,France,42,13,321254,3,5,5,Loyal customers
+C0315,Germany,239,3,80888,1,2,3,Hibernating
+C0316,Netherlands,19,7,161532,4,4,4,Champions
+C0317,France,57,5,60930,3,3,3,Potential loyalists
+C0318,France,255,1,21199,1,1,1,Hibernating
+C0319,France,331,1,37083,1,1,2,Hibernating
+C0320,France,40,3,49758,3,2,3,Potential loyalists
+C0321,France,35,5,127076,4,3,4,Potential loyalists
+C0322,Netherlands,356,1,24288,1,1,1,Hibernating
+C0323,Netherlands,260,1,2443,1,1,1,Hibernating
+C0324,Netherlands,201,3,44302,1,2,2,Hibernating
+C0325,Germany,208,3,34138,1,2,2,Hibernating
+C0326,United Kingdom,352,1,22518,1,1,1,Hibernating
+C0327,Germany,65,3,52955,3,2,3,Potential loyalists
+C0328,Netherlands,41,7,83506,3,4,3,Loyal customers
+C0329,United Kingdom,134,3,57637,2,2,3,Hibernating
+C0330,France,104,1,11358,2,1,1,Hibernating
+C0331,Germany,81,1,9259,3,1,1,Needs attention
+C0332,France,16,1,34283,5,1,2,New customers
+C0333,Germany,17,14,283812,5,5,5,Champions
+C0335,Netherlands,37,5,47455,4,3,2,Potential loyalists
+C0336,France,136,3,83525,2,2,3,Hibernating
+C0337,Netherlands,239,6,167226,1,3,4,Needs attention
+C0338,Netherlands,172,1,5177,2,1,1,Hibernating
+C0339,Ireland,28,8,177698,4,4,5,Champions
+C0340,United Kingdom,331,1,1504,1,1,1,Hibernating
+C0341,United Kingdom,11,15,314929,5,5,5,Champions
+C0342,Germany,42,8,131183,3,4,4,Loyal customers
+C0343,Ireland,30,1,10194,4,1,1,New customers
+C0344,Ireland,132,1,14978,2,1,1,Hibernating
+C0345,United Kingdom,26,7,121914,4,4,4,Champions
+C0346,Netherlands,10,3,88109,5,2,3,New customers
+C0347,Netherlands,84,8,166859,2,4,4,At risk
+C0348,Germany,86,3,34555,2,2,2,Hibernating
+C0349,Germany,4,16,328270,5,5,5,Champions
+C0350,United Kingdom,43,1,17133,3,1,1,Needs attention
+C0351,Netherlands,74,7,144264,3,4,4,Loyal customers
+C0352,Ireland,151,3,37297,2,2,2,Hibernating
+C0353,Ireland,56,3,63198,3,2,3,Potential loyalists
+C0354,France,130,3,60714,2,2,3,Hibernating
+C0355,Ireland,24,5,89310,4,3,3,Potential loyalists
+C0356,Netherlands,312,1,25365,1,1,1,Hibernating
+C0357,Germany,190,3,74961,1,2,3,Hibernating
+C0358,United Kingdom,22,3,45016,4,2,2,New customers
+C0359,United Kingdom,124,6,142041,2,3,4,Needs attention
+C0360,Ireland,262,3,51547,1,2,3,Hibernating
+C0361,France,267,1,2154,1,1,1,Hibernating
+C0363,Ireland,200,3,45564,1,2,2,Hibernating
+C0364,Ireland,160,2,14563,2,2,1,Hibernating
+C0365,Germany,211,1,15523,1,1,1,Hibernating
+C0366,France,42,10,192120,3,5,5,Loyal customers
+C0367,Netherlands,41,16,353646,3,5,5,Loyal customers
+C0369,France,4,14,277301,5,5,5,Champions
+C0370,France,5,4,95660,5,3,3,Potential loyalists
+C0371,Netherlands,215,1,12087,1,1,1,Hibernating
+C0372,Ireland,25,2,42260,4,2,2,New customers
+C0373,Ireland,173,1,35431,2,1,2,Hibernating
+C0374,Germany,21,14,300864,4,5,5,Champions
+C0375,France,119,1,30447,2,1,2,Hibernating
+C0377,France,11,15,282369,5,5,5,Champions
+C0378,Ireland,5,6,135346,5,3,4,Potential loyalists
+C0379,France,2,15,352301,5,5,5,Champions
+C0380,Netherlands,72,1,29745,3,1,2,Needs attention
+C0381,Ireland,32,6,133275,4,3,4,Potential loyalists
+C0382,France,28,8,122966,4,4,4,Champions
+C0383,United Kingdom,33,6,124175,4,3,4,Potential loyalists
+C0384,United Kingdom,15,6,162207,5,3,4,Potential loyalists
+C0385,United Kingdom,115,2,24049,2,2,1,Hibernating
+C0386,Netherlands,61,3,61455,3,2,3,Potential loyalists
+C0387,France,361,1,9560,1,1,1,Hibernating
+C0388,Germany,141,5,100891,2,3,4,Needs attention
+C0389,France,19,5,119739,4,3,4,Potential loyalists
+C0390,United Kingdom,112,3,43375,2,2,2,Hibernating
+C0391,France,36,3,34135,4,2,2,New customers
+C0392,Ireland,186,2,49762,1,2,3,Hibernating
+C0393,France,102,2,22657,2,2,1,Hibernating
+C0394,Germany,228,1,9855,1,1,1,Hibernating
+C0395,United Kingdom,297,1,19871,1,1,1,Hibernating
+C0396,Germany,7,15,327355,5,5,5,Champions
+C0397,United Kingdom,334,1,29123,1,1,2,Hibernating
+C0398,Ireland,202,3,60554,1,2,3,Hibernating
+C0399,Germany,55,1,32136,3,1,2,Needs attention
+C0400,United Kingdom,181,2,43135,1,2,2,Hibernating
+C0401,Germany,5,7,98560,5,4,3,Loyal customers
+C0402,United Kingdom,151,2,18949,2,2,1,Hibernating
+C0403,Netherlands,15,7,137469,5,4,4,Champions
+C0404,Ireland,4,11,253978,5,5,5,Champions
+C0406,France,271,1,13095,1,1,1,Hibernating
+C0408,Ireland,14,2,18598,5,2,1,New customers
+C0409,Netherlands,314,1,1479,1,1,1,Hibernating
+C0411,Ireland,192,3,53392,1,2,3,Hibernating
+C0412,Netherlands,87,14,235271,2,5,5,At risk
+C0413,France,40,8,151280,3,4,4,Loyal customers
+C0414,France,309,2,33646,1,2,2,Hibernating
+C0415,Germany,130,3,63593,2,2,3,Hibernating
+C0416,United Kingdom,350,1,40123,1,1,2,Hibernating
+C0417,United Kingdom,74,1,6250,3,1,1,Needs attention
+C0418,France,294,1,13155,1,1,1,Hibernating
+C0419,Germany,35,3,45778,4,2,2,New customers
+C0420,Ireland,109,2,29681,2,2,2,Hibernating
+C0421,Ireland,165,2,33259,2,2,2,Hibernating
+C0422,France,281,2,36052,1,2,2,Hibernating
+C0423,Germany,88,1,19694,2,1,1,Hibernating
+C0424,United Kingdom,83,7,136082,3,4,4,Loyal customers
+C0425,Netherlands,65,1,11042,3,1,1,Needs attention
+C0426,France,17,7,129180,5,4,4,Champions
+C0427,Netherlands,44,1,8391,3,1,1,Needs attention
+C0428,Ireland,74,7,136401,3,4,4,Loyal customers
+C0429,Netherlands,36,14,342556,4,5,5,Champions
+C0430,United Kingdom,1,17,396531,5,5,5,Champions
+C0431,United Kingdom,24,16,437161,4,5,5,Champions
+C0432,Netherlands,100,2,29785,2,2,2,Hibernating
+C0433,Netherlands,50,3,39559,3,2,2,Potential loyalists
+C0434,France,41,15,236794,3,5,5,Loyal customers
+C0435,Ireland,205,2,59467,1,2,3,Hibernating
+C0436,United Kingdom,51,7,96446,3,4,3,Loyal customers
+C0437,Ireland,103,2,47544,2,2,2,Hibernating
+C0438,Germany,57,12,257041,3,5,5,Loyal customers
+C0439,Germany,110,1,4454,2,1,1,Hibernating
+C0440,Germany,36,3,69154,4,2,3,New customers
+C0441,Netherlands,9,15,364198,5,5,5,Champions
+C0442,Netherlands,1,3,77146,5,2,3,New customers
+C0443,Netherlands,168,4,84512,2,3,3,Needs attention
+C0444,Germany,103,2,50565,2,2,3,Hibernating
+C0445,Netherlands,27,7,86957,4,4,3,Loyal customers
+C0446,France,275,1,13615,1,1,1,Hibernating
+C0447,Netherlands,11,6,113949,5,3,4,Potential loyalists
+C0449,Germany,18,15,329394,4,5,5,Champions
+C0450,Germany,9,2,37665,5,2,2,New customers
+C0451,Netherlands,18,14,254709,4,5,5,Champions
+C0452,France,142,3,33800,2,2,2,Hibernating
+C0453,United Kingdom,75,3,51739,3,2,3,Potential loyalists
+C0454,France,10,1,35709,5,1,2,New customers
+C0455,Germany,150,2,58012,2,2,3,Hibernating
+C0456,Germany,61,8,142942,3,4,4,Loyal customers
+C0457,Ireland,44,8,135498,3,4,4,Loyal customers
+C0458,Germany,86,2,54907,2,2,3,Hibernating
+C0459,Ireland,104,1,16973,2,1,1,Hibernating
+C0460,Netherlands,217,1,32687,1,1,2,Hibernating
+C0461,Netherlands,152,3,38378,2,2,2,Hibernating
+C0462,Netherlands,126,3,105517,2,2,4,Hibernating
+C0463,France,103,3,81363,2,2,3,Hibernating
+C0464,United Kingdom,28,3,75499,4,2,3,New customers
+C0465,France,3,4,86875,5,3,3,Potential loyalists
+C0466,France,18,17,348440,4,5,5,Champions
+C0467,Ireland,166,1,20198,2,1,1,Hibernating
+C0468,Ireland,53,13,195785,3,5,5,Loyal customers
+C0469,France,154,6,74402,2,3,3,Needs attention
+C0470,Germany,30,1,18087,4,1,1,New customers
+C0471,Germany,29,1,27271,4,1,2,New customers
+C0472,Ireland,112,1,36828,2,1,2,Hibernating
+C0473,Germany,8,17,372486,5,5,5,Champions
+C0474,France,16,8,147521,5,4,4,Champions
+C0475,Netherlands,27,1,15984,4,1,1,New customers
+C0476,Germany,49,7,143472,3,4,4,Loyal customers
+C0477,Netherlands,1,13,214379,5,5,5,Champions
+C0478,Netherlands,55,5,113892,3,3,4,Potential loyalists
+C0479,France,20,6,91430,4,3,3,Potential loyalists
+C0480,Ireland,1,6,151473,5,3,4,Potential loyalists
+C0481,United Kingdom,62,7,128676,3,4,4,Loyal customers
+C0482,Ireland,90,8,169060,2,4,4,At risk
+C0483,Ireland,138,3,72463,2,2,3,Hibernating
+C0484,Ireland,23,3,64075,4,2,3,New customers
+C0485,Germany,133,1,23176,2,1,1,Hibernating
+C0486,Netherlands,173,5,77548,2,3,3,Needs attention
+C0487,Ireland,9,17,294758,5,5,5,Champions
+C0488,Germany,53,8,123014,3,4,4,Loyal customers
+C0489,United Kingdom,96,2,15341,2,2,1,Hibernating
+C0490,France,221,5,118559,1,3,4,Needs attention
+C0491,Germany,6,8,207273,5,4,5,Champions
+C0492,France,78,8,171551,3,4,5,Loyal customers
+C0493,Netherlands,12,3,56272,5,2,3,New customers
+C0494,Netherlands,148,7,108876,2,4,4,At risk
+C0495,Germany,6,7,91078,5,4,3,Loyal customers
+C0496,Ireland,62,8,179066,3,4,5,Loyal customers
+C0497,France,224,2,31381,1,2,2,Hibernating
+C0498,Netherlands,365,1,12001,1,1,1,Hibernating
+C0499,Ireland,25,1,30015,4,1,2,New customers
+C0500,Germany,79,2,44295,3,2,2,Potential loyalists
+C0501,Netherlands,22,5,92164,4,3,3,Potential loyalists
+C0502,United Kingdom,317,1,21541,1,1,1,Hibernating
+C0503,Germany,45,1,17783,3,1,1,Needs attention
+C0504,Netherlands,30,6,80150,4,3,3,Potential loyalists
+C0505,Ireland,24,1,27622,4,1,2,New customers
+C0506,Ireland,229,1,34067,1,1,2,Hibernating
+C0507,France,13,1,41080,5,1,2,New customers
+C0508,United Kingdom,39,5,24476,4,3,1,Potential loyalists
+C0509,France,42,8,199777,3,4,5,Loyal customers
+C0510,France,190,3,60789,1,2,3,Hibernating
+C0511,Ireland,6,14,287715,5,5,5,Champions
+C0512,United Kingdom,4,7,165649,5,4,4,Champions
+C0513,Ireland,161,2,58266,2,2,3,Hibernating
+C0514,Netherlands,245,1,41080,1,1,2,Hibernating
+C0515,Germany,59,2,14496,3,2,1,Potential loyalists
+C0516,Ireland,282,2,41826,1,2,2,Hibernating
+C0517,Netherlands,14,5,79466,5,3,3,Potential loyalists
+C0518,Germany,93,1,12920,2,1,1,Hibernating
+C0520,Netherlands,14,6,93933,5,3,3,Potential loyalists
+C0521,France,317,1,5031,1,1,1,Hibernating
+C0522,United Kingdom,39,7,126157,4,4,4,Champions
+C0523,Ireland,102,6,150865,2,3,4,Needs attention
+C0524,France,64,7,221409,3,4,5,Loyal customers
+C0525,Netherlands,20,16,311597,4,5,5,Champions
+C0526,France,199,3,61688,1,2,3,Hibernating
+C0527,United Kingdom,70,5,66213,3,3,3,Potential loyalists
+C0528,United Kingdom,37,7,138357,4,4,4,Champions
+C0529,Ireland,279,2,48528,1,2,2,Hibernating
+C0530,Germany,258,1,17129,1,1,1,Hibernating
+C0531,Germany,2,7,121150,5,4,4,Champions
+C0532,United Kingdom,36,7,130774,4,4,4,Champions
+C0533,France,23,1,26095,4,1,1,New customers
+C0534,Germany,289,1,14728,1,1,1,Hibernating
+C0535,Ireland,12,6,99701,5,3,3,Potential loyalists
+C0536,United Kingdom,83,1,41120,3,1,2,Needs attention
+C0537,United Kingdom,41,8,190439,3,4,5,Loyal customers
+C0538,France,40,7,166704,3,4,4,Loyal customers
+C0540,France,124,3,69517,2,2,3,Hibernating
+C0541,Germany,21,15,317343,4,5,5,Champions
+C0542,France,27,8,197626,4,4,5,Champions
+C0543,Netherlands,56,8,157008,3,4,4,Loyal customers
+C0544,Netherlands,71,2,35921,3,2,2,Potential loyalists
+C0545,Netherlands,15,6,142749,5,3,4,Potential loyalists
+C0546,United Kingdom,131,3,38762,2,2,2,Hibernating
+C0547,Netherlands,208,1,10917,1,1,1,Hibernating
+C0548,Ireland,89,3,24408,2,2,1,Hibernating
+C0549,Germany,352,1,15436,1,1,1,Hibernating
+C0550,France,138,1,25783,2,1,1,Hibernating
+C0551,United Kingdom,69,3,59591,3,2,3,Potential loyalists
+C0552,Ireland,115,1,14938,2,1,1,Hibernating
+C0553,Germany,32,6,98762,4,3,3,Potential loyalists
+C0555,Netherlands,334,1,31989,1,1,2,Hibernating
+C0556,United Kingdom,23,15,304044,4,5,5,Champions
+C0557,United Kingdom,28,3,91075,4,2,3,New customers
+C0558,United Kingdom,47,15,387292,3,5,5,Loyal customers
+C0559,Germany,89,3,80491,2,2,3,Hibernating
+C0560,United Kingdom,126,7,219136,2,4,5,At risk
+C0561,United Kingdom,44,5,116230,3,3,4,Potential loyalists
+C0562,United Kingdom,2,7,190905,5,4,5,Champions
+C0563,France,151,2,42573,2,2,2,Hibernating
+C0564,France,63,1,33638,3,1,2,Needs attention
+C0565,Germany,55,1,24879,3,1,1,Needs attention
+C0566,France,34,6,96318,4,3,3,Potential loyalists
+C0567,Germany,132,1,28210,2,1,2,Hibernating
+C0568,Germany,131,3,46526,2,2,2,Hibernating
+C0569,Netherlands,3,6,100616,5,3,3,Potential loyalists
+C0570,Netherlands,274,2,34597,1,2,2,Hibernating
+C0571,Netherlands,6,16,306056,5,5,5,Champions
+C0572,Ireland,16,8,165682,5,4,4,Champions
+C0573,Ireland,5,7,160833,5,4,4,Champions
+C0574,United Kingdom,9,5,121628,5,3,4,Potential loyalists
+C0575,United Kingdom,134,1,6545,2,1,1,Hibernating
+C0576,Netherlands,80,2,76801,3,2,3,Potential loyalists
+C0577,Germany,174,1,28822,2,1,2,Hibernating
+C0578,United Kingdom,272,1,41889,1,1,2,Hibernating
+C0579,Germany,174,1,8502,2,1,1,Hibernating
+C0580,France,16,6,160803,5,3,4,Potential loyalists
+C0581,Germany,114,1,10465,2,1,1,Hibernating
+C0582,France,28,1,5041,4,1,1,New customers
+C0583,Netherlands,26,1,35268,4,1,2,New customers
+C0584,Netherlands,45,7,163783,3,4,4,Loyal customers
+C0585,Netherlands,1,8,147662,5,4,4,Champions
+C0586,Netherlands,13,1,26201,5,1,1,New customers
+C0588,France,9,6,156546,5,3,4,Potential loyalists
+C0589,United Kingdom,39,8,180393,4,4,5,Champions
+C0590,United Kingdom,323,1,26632,1,1,2,Hibernating
+C0591,Ireland,141,1,41525,2,1,2,Hibernating
+C0592,France,29,7,70286,4,4,3,Loyal customers
+C0593,Netherlands,292,2,59704,1,2,3,Hibernating
+C0594,United Kingdom,35,6,130224,4,3,4,Potential loyalists
+C0595,Germany,36,14,374650,4,5,5,Champions
+C0596,United Kingdom,17,2,26657,5,2,2,New customers
+C0597,United Kingdom,44,16,320760,3,5,5,Loyal customers
+C0598,Germany,212,1,7533,1,1,1,Hibernating
+C0600,Ireland,47,3,72537,3,2,3,Potential loyalists
