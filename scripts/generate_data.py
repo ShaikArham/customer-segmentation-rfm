@@ -18,7 +18,7 @@ def generate(path, seed=42, customers=600):
                 amount_eur=f'{amount//100}.{amount%100:02}', refund_eur=f'{refund//100}.{refund%100:02}',
                 status='cancelled' if rng.random()<0.04 else 'completed'))
     with path.open('w',newline='',encoding='utf-8') as f:
-        writer=csv.DictWriter(f,fieldnames=list(rows[0]));writer.writeheader();writer.writerows(rows)
+        writer=csv.DictWriter(f,fieldnames=list(rows[0]),lineterminator="\n");writer.writeheader();writer.writerows(rows)
     return len(rows)
 
 if __name__=='__main__':

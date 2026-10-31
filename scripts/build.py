@@ -13,7 +13,7 @@ def build(input_path, out_dir, site_dir, as_of, window_days=365, synthetic=False
     out_dir.mkdir(parents=True,exist_ok=True);site_dir.mkdir(parents=True,exist_ok=True)
     for name,rows in [('customers',result['customers']),('segments',result['segments']),('monthly',result['monthly'])]:
         with (out_dir/f'{name}.csv').open('w',newline='',encoding='utf-8') as f:
-            w=csv.DictWriter(f,fieldnames=list(rows[0]));w.writeheader();w.writerows(rows)
+            w=csv.DictWriter(f,fieldnames=list(rows[0]),lineterminator="\n");w.writeheader();w.writerows(rows)
     payload=json.dumps(result,indent=2,sort_keys=True,ensure_ascii=True)
     (out_dir/'analysis.json').write_text(payload+'\n',encoding='utf-8')
     # HTML imports a JS payload so the static demo also works from file://.
