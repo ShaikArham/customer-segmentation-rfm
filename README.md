@@ -4,6 +4,8 @@ Reproducible Python customer segmentation and an interactive sales dashboard.
 
 **All supplied data is fictional.** Built as a new portfolio demonstration in October 2026; this is not evidence of historical client work or commercial improvements.
 
+[Open the live dashboard](https://shaikarham.github.io/customer-segmentation-rfm/site/)
+
 ## Run
 
 Python 3.12+, no third-party packages required:
@@ -79,3 +81,4 @@ Omit `--synthetic` for non-fictional data. Generated dashboard files contain cus
 ## Limitations
 
 Descriptive segmentation only: no predictive model, estimated lifetime value, causal uplift claims or Power BI `.pbix` file. Campaign suggestions are hypotheses for experiments. Synthetic patterns and customer country assumptions simplify real retail operations.
+
