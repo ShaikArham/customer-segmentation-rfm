@@ -1,4 +1,58 @@
-# Customer Lens · RFM Customer Segmentation
+<div align="center">
+
+# CUSTOMER LENS
+
+### KNOW THE PATTERN. TEST THE NEXT MOVE.
+
+**A transparent RFM segmentation pipeline with an interactive retail analytics dashboard.**
+
+[**Explore the demo**](https://shaikarham.github.io/customer-segmentation-rfm/site/) · [**Source repository**](https://github.com/ShaikArham/customer-segmentation-rfm) · [**Arham's portfolio**](https://arham-bi.vercel.app/)
+
+![Project](https://img.shields.io/badge/Portfolio-Independent%20project-075d60?style=flat-square) ![Evidence](https://img.shields.io/badge/Approach-Evidence%20first-334155?style=flat-square)
+
+*Shaik Arham Saquib · Dublin, Ireland*
+
+</div>
+
+---
+
+## 01 / THE QUESTION
+
+**What can a retailer learn from transaction history without confusing descriptive segments with predicted behaviour?**
+
+The pipeline validates orders, handles refunds in integer cents, applies explicit RFM scoring rules and makes segments inspectable in a browser dashboard.
+
+> **The goal:** Show the reasoning behind the result, not just the interface that displays it.
+
+## 02 / AT A GLANCE
+
+**3,658 fictional orders | 569 eligible customers | 12 calculation and reconciliation tests**
+
+| Reviewer's lens | What to look for |
+| :--- | :--- |
+| **Product thinking** | The operational question and intended user journey |
+| **Engineering** | Python 3.12+, standard library, CSV/JSON, static browser dashboard. |
+| **Evidence** | Reproducible examples, explicit rules and documented boundaries |
+| **Trust** | No predictive customer lifetime value, causal marketing effect or real customer data. |
+
+## 03 / FIVE-MINUTE REVIEW
+
+Start with the dashboard, inspect the segment rules, then run the deterministic generator and test suite. Campaign ideas are hypotheses, not measured uplift.
+
+## 04 / WHAT IT DEMONSTRATES
+
+- **Problem framing:** Make the operational decision and its context explicit.
+- **Traceability:** Explain the inputs, transformations and outputs a reviewer can inspect.
+- **Responsible claims:** Separate fictional scenarios, demonstrated results and future work.
+- **Communication:** Make technical decisions understandable to both analysts and hiring managers.
+
+## 05 / IMPLEMENTATION AND REPRODUCTION
+
+The original project documentation follows below, including exact commands, metric definitions, architecture, test evidence and limitations where available. The project README remains the authoritative source for its own implementation details.
+
+---
+
+## Detailed project documentation
 
 Reproducible Python customer segmentation and an interactive sales dashboard.
 
